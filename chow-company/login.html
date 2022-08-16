@@ -1,0 +1,50 @@
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <meta http-equiv="X-UA-Compatible" content="IE=edge">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <link rel="stylesheet" href="font-awesome\css\font-awesome.min.css">
+ <link rel="stylesheet" href="main.css">
+ <title>Chow</title>
+ <link rel="icon" type="image" href="LOGGO.png">
+</head>
+<body>
+   <nav class="navbar">
+     
+
+
+    
+   </nav>
+
+   <section class="loginfront">
+    <div class="logcon">
+     <div class="h"> <h3 style="color:whitesmoke;">LOGIN</h3></div>
+    
+      <div class="login">
+       <h2>Hi there , we've missed you</h2>
+       <i class="fa fa-user-circle"></i>
+        <form action="intro.html" onsubmit="return valid()" >
+         <input type="text" name="" placeholder="  Enter your email ..." id="email">
+         <br>
+         <input type="password" name="" placeholder="  *************" id="password">
+         <br>
+         <a href="">Forgot password?</a>
+         <br>
+         <button type="submit" >LOGIN</button>
+        </form>
+        <div class="sep"></div>
+        <div class="sign"><h3>Don't have an account?<a href="signup.html">SIGNUP</a></h3></div>
+      </div>
+     
+    </div>
+   </section>
+
+
+  <script type="text/javascript" src="user.json"></script>
+  
+   <script type="module" >
+      import {validate} from "./cred.js"
+      window.valid = validate
+   </script>
+</body>
+</html>

@@ -1,0 +1,46 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "benedictkabiawu",
+      "email": "kabiawubenedict@gmail.com",
+      "phone": "09067693202",
+      "password": "24december2003"
+    },
+    {
+      "id": 2,
+      "name": "amahchristoper",
+      "email": "christoperamah1@gmail.com",
+      "phone": "08105938812",
+      "password": "24kachiamahchris2001"
+    },
+    {
+      "id": 3,
+      "name": "timiadkmoney",
+      "email": "adkmoney@gmail.com",
+      "phone": "07060700547",
+      "password": "24adkmoney2001"
+    },
+    {
+      "id": 4,
+      "name": "JosephBockee",
+      "phone": "09082728224",
+      "email": "bockeejospeh@gmail.com",
+      "password": "24bockee2001"
+    },
+    {
+      "id": 5,
+      "name": "TamiBlack",
+      "phone": "09127592649",
+      "email": "tamiblack@gmail.com",
+      "password": "24tamiblack2001"
+    },
+    {
+      "id": 6,
+      "name": "TaamiBlack",
+      "phone": "08127592649",
+      "email": "tamddiblack@gmail.com",
+      "password": "24dftamiblack2001"
+    }
+  ]
+}

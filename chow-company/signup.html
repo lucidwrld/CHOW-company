@@ -1,0 +1,49 @@
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <meta http-equiv="X-UA-Compatible" content="IE=edge">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <link rel="stylesheet" href="font-awesome\css\font-awesome.min.css">
+ <link rel="stylesheet" href="main.css">
+ <title>Chow</title>
+ <link rel="icon" type="image" href="LOGGO.png">
+</head>
+<body>
+   <nav class="navbar">
+   </nav>
+
+   <section class="signupfront">
+    <div class="logcon">
+     <div class="h"> <h3 style="color:whitesmoke;">Signup</h3></div>
+    
+      <div class="signup">
+       <h2>Hello, guess you are ready for this journey</h2>
+       <i class="fa fa-user-circle"></i>
+        <form action="intro.html" onsubmit="return emailValid()">
+         <input type="text" name="" placeholder="  Enter your fullname ..." id="fullname">
+         <br>
+         <input type="email" placeholder=" chow@gmail.com" id="email">
+         <br>
+         <input type="number" placeholder=" Mobile-number" id="number">
+         <br>
+         <input type="password" name="" placeholder="  *************" id="password">
+         <br>
+    
+         <br>
+         <button type="submit">SIGNUP</button>
+        </form>
+        <div class="sep"></div>
+        <div class="sign"><h3>Already have an account?<a href="login.html">LOGIN</a></h3></div>
+      </div>
+     
+    </div>
+   </section>
+  
+   <script type="text/javascript" src="user.json"></script>
+ 
+    <script type="module">
+      import {emailValidate} from './credi.js'
+      window.emailValid = emailValidate
+    </script>
+</body>
+</html>

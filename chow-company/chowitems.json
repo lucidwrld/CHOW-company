@@ -1,0 +1,1238 @@
+{
+ "busaItem":[
+ 
+  {
+   "id": 1,
+   "name": "Jollof rice",
+   "category" : "rice",
+   "rating" : 4.0,
+   "price": 600,
+   "Img": "jollofrice.jpg",
+   "quantity": 1
+   },
+  
+   
+   {
+    "id": 2,
+    "name": "White rice",
+    "category" : "rice",
+    "rating" : 4.0,
+    "price": 600,
+    "Img": "whiterice.jpg",
+    "quantity": 1
+   },
+   {
+    "id": 3,
+    "name": "Chinese rice",
+    "category" : "rice",
+    "rating" : 4.0,
+    "price": 600,
+    "Img": "chineserice.jpg",
+    "quantity": 1
+   },
+   {
+    "id": 4,
+    "name": "Gbadun rice",
+    "category" : "rice",
+    "rating" : 4.0,
+    "price": 600,
+    "Img": "jollofrice.jpg",
+    "quantity": 1
+   },
+   {
+    "id": 5,
+    "name": "Fried rice",
+    "category" : "rice",
+    "rating" : 4.0,
+    "price": 600,
+    "Img": "chineserice.jpg",
+    "quantity": 1
+   },
+   {
+    "id": 6,
+    "name": "Jollof spaghetti",
+    "category" : "spaghetti",
+    "rating" : 4.0,
+    "price": 600,
+    "Img": "jollofspag.jpg",
+    "quantity": 1
+   },
+   {
+    "id": 7,
+    "name": "White spaghetti",
+    "category" : "spaghetti",
+    "rating" : 4.0,
+    "price": 600,
+    "Img": "white.jpg",
+    "quantity": 1
+   },
+   {
+     "id": 8,
+     "name": "Indomie",
+     "category" : "spaghetti",
+     "rating" : 4.0,
+     "price": 600,
+     "Img": "indomie.jpg",
+     "quantity": 1
+   },
+   {
+     "id": 9,
+     "name": "Moin-Moin",
+     "category" : "sides",
+     "rating" : 4.0,
+     "price": 100,
+     "Img": "moin.png",
+     "quantity": 1
+   },
+   {
+    "id": 10,
+    "name": "Yamarita",
+    "category" : "sides",
+    "rating" : 4.0,
+    "price": 200,
+    "Img": "yamarita.jpg",
+    "quantity": 1
+   },
+   {
+    "id": 11,
+    "name": "Doughnut",
+    "category" : "sides",
+    "rating" : 4.0,
+    "price": 200,
+    "Img": "dough.jpg",
+    "quantity": 1
+   },
+   {
+    "id": 12,
+    "name": "Burger",
+    "category" : "sides",
+    "rating" : 4.0,
+    "price": 200,
+    "Img": "bbub.png",
+    "quantity": 1
+   },
+   {
+    "id": 13,
+    "name": "Fanta",
+    "category" : "drink",
+    "rating" : 4.0,
+    "price": 200,
+    "Img": "fanta.png",
+    "quantity": 1
+   },
+   {
+    "id": 14,
+    "name": "Ribenna",
+    "category" : "drink",
+    "rating" : 4.0,
+    "price": 200,
+    "Img": "ribenna.png",
+    "quantity": 1
+   },
+   {
+    "id": 15,
+    "name": "Sprite",
+    "category" : "drink",
+    "rating" : 4.0,
+    "price": 200,
+    "Img": "sprite.jpg",
+    "quantity": 1
+   },
+   {
+    "id": 16,
+    "name": "Malt",
+    "category" : "drink",
+    "rating" : 4.0,
+    "price": 800,
+    "Img": "MALT.png",
+    "quantity": 1
+   },
+   {
+    "id": 17,
+    "name": "C-way",
+    "category" : "drink",
+    "rating" : 4.0,
+    "price": 150,
+    "Img": "cway.png",
+    "quantity": 1
+   },
+   {
+    "id": 18,
+    "name": "Bottle Water",
+    "category" : "drink",
+    "rating" : 4.0,
+    "price": 300,
+    "Img": "water.jpg",
+    "quantity": 1
+   },
+   {
+    "id": 19,
+    "name": "Schwepps",
+    "category" : "drink",
+    "rating" : 4.0,
+    "price": 300,
+    "Img": "Mojito.png",
+    "quantity": 1
+   }
+                                                                          
+  
+ ],
+ "bghItem":[
+
+  {
+   "id": 1,
+   "name": "Jollof rice",
+   "category" : "bgrice",
+   "rating" : 4.0,
+   "price": 600,
+   "Img": "jollofrice.jpg",
+   "quantity": 1
+   },
+  
+   
+   {
+    "id": 2,
+    "name": "White rice",
+    "category" : "bgrice",
+    "rating" : 4.0,
+    "price": 600,
+    "Img": "whiterice.jpg",
+    "quantity": 1
+   },
+   {
+    "id": 3,
+    "name": "Chinese rice",
+    "category" : "bgrice",
+    "rating" : 4.0,
+    "price": 600,
+    "Img": "chineserice.jpg",
+    "quantity": 1
+   },
+   {
+    "id": 4,
+    "name": "Gbadun rice",
+    "category" : "bgrice",
+    "rating" : 4.0,
+    "price": 600,
+    "Img": "jollofrice.jpg",
+    "quantity": 1
+   },
+   {
+    "id": 5,
+    "name": "Fried rice",
+    "category" : "bgrice",
+    "rating" : 4.0,
+    "price": 600,
+    "Img": "chineserice.jpg",
+    "quantity": 1
+   },
+   {
+    "id": 6,
+    "name": "Jollof spaghetti",
+    "category" : "bgspaghetti",
+    "rating" : 4.0,
+    "price": 600,
+    "Img": "jollofspag.jpg",
+    "quantity": 1
+   },
+   {
+    "id": 7,
+    "name": "White spaghetti",
+    "category" : "bgspaghetti",
+    "rating" : 4.0,
+    "price": 600,
+    "Img": "white.jpg",
+    "quantity": 1
+   },
+   {
+     "id": 8,
+     "name": "Indomie",
+     "category" : "bgspaghetti",
+     "rating" : 4.0,
+     "price": 600,
+     "Img": "indomie.jpg",
+     "quantity": 1
+   },
+   {
+     "id": 9,
+     "name": "Moin-Moin",
+     "category" : "bgsides",
+     "rating" : 4.0,
+     "price": 100,
+     "Img": "moin.png",
+     "quantity": 1
+   },
+   {
+    "id": 10,
+    "name": "Yamarita",
+    "category" : "bgsides",
+    "rating" : 4.0,
+    "price": 200,
+    "Img": "yamarita.jpg",
+    "quantity": 1
+   },
+   {
+    "id": 11,
+    "name": "Doughnut",
+    "category" : "bgsides",
+    "rating" : 4.0,
+    "price": 200,
+    "Img": "dough.jpg",
+    "quantity": 1
+   },
+   {
+    "id": 12,
+    "name": "Burger",
+    "category" : "bgsides",
+    "rating" : 4.0,
+    "price": 200,
+    "Img": "bbub.png",
+    "quantity": 1
+   },
+   {
+    "id": 13,
+    "name": "Fanta",
+    "category" : "bgdrink",
+    "rating" : 4.0,
+    "price": 200,
+    "Img": "fanta.png",
+    "quantity": 1
+   },
+   {
+    "id": 14,
+    "name": "Ribenna",
+    "category" : "bgdrink",
+    "rating" : 4.0,
+    "price": 200,
+    "Img": "ribenna.png",
+    "quantity": 1
+   },
+   {
+    "id": 15,
+    "name": "Sprite",
+    "category" : "bgdrink",
+    "rating" : 4.0,
+    "price": 200,
+    "Img": "sprite.jpg",
+    "quantity": 1
+   },
+   {
+    "id": 16,
+    "name": "Malt",
+    "category" : "bgdrink",
+    "rating" : 4.0,
+    "price": 800,
+    "Img": "MALT.png",
+    "quantity": 1
+   },
+   {
+    "id": 17,
+    "name": "C-way",
+    "category" : "bgdrink",
+    "rating" : 4.0,
+    "price": 150,
+    "Img": "cway.png",
+    "quantity": 1
+   },
+   {
+    "id": 18,
+    "name": "Bottle Water",
+    "category" : "bgdrink",
+    "rating" : 4.0,
+    "price": 300,
+    "Img": "water.jpg",
+    "quantity": 1
+   },
+   {
+    "id": 19,
+    "name": "Schwepps",
+    "category" : "bgdrink",
+    "rating" : 4.0,
+    "price": 300,
+    "Img": "Mojito.png",
+    "quantity": 1
+   }
+
+ ],
+ "bigItem":[
+
+  {
+   "id": 1,
+   "name": "Jollof rice",
+   "category" : "birice",
+   "rating" : 4.0,
+   "price": 600,
+   "Img": "jollofrice.jpg",
+   "quantity": 1
+   },
+  
+   
+   {
+    "id": 2,
+    "name": "White rice",
+    "category" : "birice",
+    "rating" : 4.0,
+    "price": 600,
+    "Img": "whiterice.jpg",
+    "quantity": 1
+   },
+   {
+    "id": 3,
+    "name": "Chinese rice",
+    "category" : "birice",
+    "rating" : 4.0,
+    "price": 600,
+    "Img": "chineserice.jpg",
+    "quantity": 1
+   },
+   {
+    "id": 4,
+    "name": "Gbadun rice",
+    "category" : "birice",
+    "rating" : 4.0,
+    "price": 600,
+    "Img": "jollofrice.jpg",
+    "quantity": 1
+   },
+   {
+    "id": 5,
+    "name": "Fried rice",
+    "category" : "birice",
+    "rating" : 4.0,
+    "price": 600,
+    "Img": "chineserice.jpg",
+    "quantity": 1
+   },
+   {
+    "id": 6,
+    "name": "Jollof spaghetti",
+    "category" : "bispaghetti",
+    "rating" : 4.0,
+    "price": 600,
+    "Img": "jollofspag.jpg",
+    "quantity": 1
+   },
+   {
+    "id": 7,
+    "name": "White spaghetti",
+    "category" : "bispaghetti",
+    "rating" : 4.0,
+    "price": 600,
+    "Img": "white.jpg",
+    "quantity": 1
+   },
+   {
+     "id": 8,
+     "name": "Indomie",
+     "category" : "bispaghetti",
+     "rating" : 4.0,
+     "price": 600,
+     "Img": "indomie.jpg",
+     "quantity": 1
+   },
+   {
+     "id": 9,
+     "name": "Moin-Moin",
+     "category" : "bisides",
+     "rating" : 4.0,
+     "price": 100,
+     "Img": "moin.png",
+     "quantity": 1
+   },
+   {
+    "id": 10,
+    "name": "Yamarita",
+    "category" : "bisides",
+    "rating" : 4.0,
+    "price": 200,
+    "Img": "yamarita.jpg",
+    "quantity": 1
+   },
+   {
+    "id": 11,
+    "name": "Doughnut",
+    "category" : "bisides",
+    "rating" : 4.0,
+    "price": 200,
+    "Img": "dough.jpg",
+    "quantity": 1
+   },
+   {
+    "id": 12,
+    "name": "Burger",
+    "category" : "bisides",
+    "rating" : 4.0,
+    "price": 200,
+    "Img": "bbub.png",
+    "quantity": 1
+   },
+   {
+    "id": 13,
+    "name": "Fanta",
+    "category" : "bidrink",
+    "rating" : 4.0,
+    "price": 200,
+    "Img": "fanta.png",
+    "quantity": 1
+   },
+   {
+    "id": 14,
+    "name": "Ribenna",
+    "category" : "bidrink",
+    "rating" : 4.0,
+    "price": 200,
+    "Img": "ribenna.png",
+    "quantity": 1
+   },
+   {
+    "id": 15,
+    "name": "Sprite",
+    "category" : "bidrink",
+    "rating" : 4.0,
+    "price": 200,
+    "Img": "sprite.jpg",
+    "quantity": 1
+   },
+   {
+    "id": 16,
+    "name": "Malt",
+    "category" : "bidrink",
+    "rating" : 4.0,
+    "price": 800,
+    "Img": "MALT.png",
+    "quantity": 1
+   },
+   {
+    "id": 17,
+    "name": "C-way",
+    "category" : "bidrink",
+    "rating" : 4.0,
+    "price": 150,
+    "Img": "cway.png",
+    "quantity": 1
+   },
+   {
+    "id": 18,
+    "name": "Bottle Water",
+    "category" : "bidrink",
+    "rating" : 4.0,
+    "price": 300,
+    "Img": "water.jpg",
+    "quantity": 1
+   },
+   {
+    "id": 19,
+    "name": "Schwepps",
+    "category" : "bidrink",
+    "rating" : 4.0,
+    "price": 300,
+    "Img": "Mojito.png",
+    "quantity": 1
+   }
+
+ ],
+ "buthItem":[
+
+  {
+   "id": 1,
+   "name": "Jollof rice",
+   "category" : "brice",
+   "rating" : 4.0,
+   "price": 600,
+   "Img": "jollofrice.jpg",
+   "quantity": 1
+   },
+  
+   
+   {
+    "id": 2,
+    "name": "White rice",
+    "category" : "brice",
+    "rating" : 4.0,
+    "price": 600,
+    "Img": "whiterice.jpg",
+    "quantity": 1
+   },
+   {
+    "id": 3,
+    "name": "Chinese rice",
+    "category" : "brice",
+    "rating" : 4.0,
+    "price": 600,
+    "Img": "chineserice.jpg",
+    "quantity": 1
+   },
+   {
+    "id": 4,
+    "name": "Gbadun rice",
+    "category" : "brice",
+    "rating" : 4.0,
+    "price": 600,
+    "Img": "jollofrice.jpg",
+    "quantity": 1
+   },
+   {
+    "id": 5,
+    "name": "Fried rice",
+    "category" : "brice",
+    "rating" : 4.0,
+    "price": 600,
+    "Img": "chineserice.jpg",
+    "quantity": 1
+   },
+   {
+    "id": 6,
+    "name": "Jollof spaghetti",
+    "category" : "bspaghetti",
+    "rating" : 4.0,
+    "price": 600,
+    "Img": "jollofspag.jpg",
+    "quantity": 1
+   },
+   {
+    "id": 7,
+    "name": "White spaghetti",
+    "category" : "bspaghetti",
+    "rating" : 4.0,
+    "price": 600,
+    "Img": "white.jpg",
+    "quantity": 1
+   },
+   {
+     "id": 8,
+     "name": "Indomie",
+     "category" : "bspaghetti",
+     "rating" : 4.0,
+     "price": 600,
+     "Img": "indomie.jpg",
+     "quantity": 1
+   },
+   {
+     "id": 9,
+     "name": "Moin-Moin",
+     "category" : "bsides",
+     "rating" : 4.0,
+     "price": 100,
+     "Img": "moin.png",
+     "quantity": 1
+   },
+   {
+    "id": 10,
+    "name": "Yamarita",
+    "category" : "bsides",
+    "rating" : 4.0,
+    "price": 200,
+    "Img": "yamarita.jpg",
+    "quantity": 1
+   },
+   {
+    "id": 11,
+    "name": "Doughnut",
+    "category" : "bsides",
+    "rating" : 4.0,
+    "price": 200,
+    "Img": "dough.jpg",
+    "quantity": 1
+   },
+   {
+    "id": 12,
+    "name": "Burger",
+    "category" : "bsides",
+    "rating" : 4.0,
+    "price": 200,
+    "Img": "bbub.png",
+    "quantity": 1
+   },
+   {
+    "id": 13,
+    "name": "Fanta",
+    "category" : "bdrink",
+    "rating" : 4.0,
+    "price": 200,
+    "Img": "fanta.png",
+    "quantity": 1
+   },
+   {
+    "id": 14,
+    "name": "Ribenna",
+    "category" : "bdrink",
+    "rating" : 4.0,
+    "price": 200,
+    "Img": "ribenna.png",
+    "quantity": 1
+   },
+   {
+    "id": 15,
+    "name": "Sprite",
+    "category" : "bdrink",
+    "rating" : 4.0,
+    "price": 200,
+    "Img": "sprite.jpg",
+    "quantity": 1
+   },
+   {
+    "id": 16,
+    "name": "Malt",
+    "category" : "bdrink",
+    "rating" : 4.0,
+    "price": 800,
+    "Img": "MALT.png",
+    "quantity": 1
+   },
+   {
+    "id": 17,
+    "name": "C-way",
+    "category" : "bdrink",
+    "rating" : 4.0,
+    "price": 150,
+    "Img": "cway.png",
+    "quantity": 1
+   },
+   {
+    "id": 18,
+    "name": "Bottle Water",
+    "category" : "bdrink",
+    "rating" : 4.0,
+    "price": 300,
+    "Img": "water.jpg",
+    "quantity": 1
+   },
+   {
+    "id": 19,
+    "name": "Schwepps",
+    "category" : "bdrink",
+    "rating" : 4.0,
+    "price": 300,
+    "Img": "Mojito.png",
+    "quantity": 1
+   }
+
+ ],
+ "cafItem":[
+
+  {
+   "id": 1,
+   "name": "Jollof rice",
+   "category" : "crice",
+   "rating" : 4.0,
+   "price": 600,
+   "Img": "jollofrice.jpg",
+   "quantity": 1
+   },
+  
+   
+   {
+    "id": 2,
+    "name": "White rice",
+    "category" : "crice",
+    "rating" : 4.0,
+    "price": 600,
+    "Img": "whiterice.jpg",
+    "quantity": 1
+   },
+   {
+    "id": 3,
+    "name": "Chinese rice",
+    "category" : "crice",
+    "rating" : 4.0,
+    "price": 600,
+    "Img": "chineserice.jpg",
+    "quantity": 1
+   },
+   {
+    "id": 4,
+    "name": "Gbadun rice",
+    "category" : "crice",
+    "rating" : 4.0,
+    "price": 600,
+    "Img": "jollofrice.jpg",
+    "quantity": 1
+   },
+   {
+    "id": 5,
+    "name": "Fried rice",
+    "category" : "crice",
+    "rating" : 4.0,
+    "price": 600,
+    "Img": "chineserice.jpg",
+    "quantity": 1
+   },
+   {
+    "id": 6,
+    "name": "Jollof spaghetti",
+    "category" : "cspaghetti",
+    "rating" : 4.0,
+    "price": 600,
+    "Img": "jollofspag.jpg",
+    "quantity": 1
+   },
+   {
+    "id": 7,
+    "name": "White spaghetti",
+    "category" : "cspaghetti",
+    "rating" : 4.0,
+    "price": 600,
+    "Img": "white.jpg",
+    "quantity": 1
+   },
+   {
+     "id": 8,
+     "name": "Indomie",
+     "category" : "cspaghetti",
+     "rating" : 4.0,
+     "price": 600,
+     "Img": "indomie.jpg",
+     "quantity": 1
+   },
+   {
+     "id": 9,
+     "name": "Moin-Moin",
+     "category" : "csides",
+     "rating" : 4.0,
+     "price": 100,
+     "Img": "moin.png",
+     "quantity": 1
+   },
+   {
+    "id": 10,
+    "name": "Yamarita",
+    "category" : "csides",
+    "rating" : 4.0,
+    "price": 200,
+    "Img": "yamarita.jpg",
+    "quantity": 1
+   },
+   {
+    "id": 11,
+    "name": "Doughnut",
+    "category" : "csides",
+    "rating" : 4.0,
+    "price": 200,
+    "Img": "dough.jpg",
+    "quantity": 1
+   },
+   {
+    "id": 12,
+    "name": "Burger",
+    "category" : "csides",
+    "rating" : 4.0,
+    "price": 200,
+    "Img": "bbub.png",
+    "quantity": 1
+   },
+   {
+    "id": 13,
+    "name": "Fanta",
+    "category" : "cdrink",
+    "rating" : 4.0,
+    "price": 200,
+    "Img": "fanta.png",
+    "quantity": 1
+   },
+   {
+    "id": 14,
+    "name": "Ribenna",
+    "category" : "cdrink",
+    "rating" : 4.0,
+    "price": 200,
+    "Img": "ribenna.png",
+    "quantity": 1
+   },
+   {
+    "id": 15,
+    "name": "Sprite",
+    "category" : "cdrink",
+    "rating" : 4.0,
+    "price": 200,
+    "Img": "sprite.jpg",
+    "quantity": 1
+   },
+   {
+    "id": 16,
+    "name": "Malt",
+    "category" : "cdrink",
+    "rating" : 4.0,
+    "price": 800,
+    "Img": "MALT.png",
+    "quantity": 1
+   },
+   {
+    "id": 17,
+    "name": "C-way",
+    "category" : "cdrink",
+    "rating" : 4.0,
+    "price": 150,
+    "Img": "cway.png",
+    "quantity": 1
+   },
+   {
+    "id": 18,
+    "name": "Bottle Water",
+    "category" : "cdrink",
+    "rating" : 4.0,
+    "price": 300,
+    "Img": "water.jpg",
+    "quantity": 1
+   },
+   {
+    "id": 19,
+    "name": "Schwepps",
+    "category" : "cdrink",
+    "rating" : 4.0,
+    "price": 300,
+    "Img": "Mojito.png",
+    "quantity": 1
+   }
+
+ ],
+ "dhlItem":[
+  {
+   "id": 1,
+   "name": "Jollof rice",
+   "category" : "drice",
+   "rating" : 4.0,
+   "price": 600,
+   "Img": "jollofrice.jpg",
+   "quantity": 1
+   },
+  
+   
+   {
+    "id": 2,
+    "name": "White rice",
+    "category" : "drice",
+    "rating" : 4.0,
+    "price": 600,
+    "Img": "whiterice.jpg",
+    "quantity": 1
+   },
+   {
+    "id": 3,
+    "name": "Chinese rice",
+    "category" : "drice",
+    "rating" : 4.0,
+    "price": 600,
+    "Img": "chineserice.jpg",
+    "quantity": 1
+   },
+   {
+    "id": 4,
+    "name": "Gbadun rice",
+    "category" : "drice",
+    "rating" : 4.0,
+    "price": 600,
+    "Img": "jollofrice.jpg",
+    "quantity": 1
+   },
+   {
+    "id": 5,
+    "name": "Fried rice",
+    "category" : "drice",
+    "rating" : 4.0,
+    "price": 600,
+    "Img": "chineserice.jpg",
+    "quantity": 1
+   },
+   {
+    "id": 6,
+    "name": "Jollof spaghetti",
+    "category" : "dspaghetti",
+    "rating" : 4.0,
+    "price": 600,
+    "Img": "jollofspag.jpg",
+    "quantity": 1
+   },
+   {
+    "id": 7,
+    "name": "White spaghetti",
+    "category" : "dspaghetti",
+    "rating" : 4.0,
+    "price": 600,
+    "Img": "white.jpg",
+    "quantity": 1
+   },
+   {
+     "id": 8,
+     "name": "Indomie",
+     "category" : "dspaghetti",
+     "rating" : 4.0,
+     "price": 600,
+     "Img": "indomie.jpg",
+     "quantity": 1
+   },
+   {
+     "id": 9,
+     "name": "Moin-Moin",
+     "category" : "dsides",
+     "rating" : 4.0,
+     "price": 100,
+     "Img": "moin.png",
+     "quantity": 1
+   },
+   {
+    "id": 10,
+    "name": "Yamarita",
+    "category" : "dsides",
+    "rating" : 4.0,
+    "price": 200,
+    "Img": "yamarita.jpg",
+    "quantity": 1
+   },
+   {
+    "id": 11,
+    "name": "Doughnut",
+    "category" : "dsides",
+    "rating" : 4.0,
+    "price": 200,
+    "Img": "dough.jpg",
+    "quantity": 1
+   },
+   {
+    "id": 12,
+    "name": "Burger",
+    "category" : "dsides",
+    "rating" : 4.0,
+    "price": 200,
+    "Img": "bbub.png",
+    "quantity": 1
+   },
+   {
+    "id": 13,
+    "name": "Fanta",
+    "category" : "ddrink",
+    "rating" : 4.0,
+    "price": 200,
+    "Img": "fanta.png",
+    "quantity": 1
+   },
+   {
+    "id": 14,
+    "name": "Ribenna",
+    "category" : "ddrink",
+    "rating" : 4.0,
+    "price": 200,
+    "Img": "ribenna.png",
+    "quantity": 1
+   },
+   {
+    "id": 15,
+    "name": "Sprite",
+    "category" : "ddrink",
+    "rating" : 4.0,
+    "price": 200,
+    "Img": "sprite.jpg",
+    "quantity": 1
+   },
+   {
+    "id": 16,
+    "name": "Malt",
+    "category" : "ddrink",
+    "rating" : 4.0,
+    "price": 800,
+    "Img": "MALT.png",
+    "quantity": 1
+   },
+   {
+    "id": 17,
+    "name": "C-way",
+    "category" : "ddrink",
+    "rating" : 4.0,
+    "price": 150,
+    "Img": "cway.png",
+    "quantity": 1
+   },
+   {
+    "id": 18,
+    "name": "Bottle Water",
+    "category" : "ddrink",
+    "rating" : 4.0,
+    "price": 300,
+    "Img": "water.jpg",
+    "quantity": 1
+   },
+   {
+    "id": 19,
+    "name": "Schwepps",
+    "category" : "ddrink",
+    "rating" : 4.0,
+    "price": 300,
+    "Img": "Mojito.png",
+    "quantity": 1
+   }
+ ],
+ "supItem":[
+  {
+   "id": 1,
+   "name": "Jollof rice",
+   "category" : "srice",
+   "rating" : 4.0,
+   "price": 600,
+   "Img": "jollofrice.jpg",
+   "quantity": 1
+   },
+  
+   
+   {
+    "id": 2,
+    "name": "White rice",
+    "category" : "srice",
+    "rating" : 4.0,
+    "price": 600,
+    "Img": "whiterice.jpg",
+    "quantity": 1
+   },
+   {
+    "id": 3,
+    "name": "Chinese rice",
+    "category" : "srice",
+    "rating" : 4.0,
+    "price": 600,
+    "Img": "chineserice.jpg",
+    "quantity": 1
+   },
+   {
+    "id": 4,
+    "name": "Gbadun rice",
+    "category" : "srice",
+    "rating" : 4.0,
+    "price": 600,
+    "Img": "jollofrice.jpg",
+    "quantity": 1
+   },
+   {
+    "id": 5,
+    "name": "Fried rice",
+    "category" : "srice",
+    "rating" : 4.0,
+    "price": 600,
+    "Img": "chineserice.jpg",
+    "quantity": 1
+   },
+   {
+    "id": 6,
+    "name": "Jollof spaghetti",
+    "category" : "sspaghetti",
+    "rating" : 4.0,
+    "price": 600,
+    "Img": "jollofspag.jpg",
+    "quantity": 1
+   },
+   {
+    "id": 7,
+    "name": "White spaghetti",
+    "category" : "sspaghetti",
+    "rating" : 4.0,
+    "price": 600,
+    "Img": "white.jpg",
+    "quantity": 1
+   },
+   {
+     "id": 8,
+     "name": "Indomie",
+     "category" : "sspaghetti",
+     "rating" : 4.0,
+     "price": 600,
+     "Img": "indomie.jpg",
+     "quantity": 1
+   },
+   {
+     "id": 9,
+     "name": "Moin-Moin",
+     "category" : "ssides",
+     "rating" : 4.0,
+     "price": 100,
+     "Img": "moin.png",
+     "quantity": 1
+   },
+   {
+    "id": 10,
+    "name": "Yamarita",
+    "category" : "ssides",
+    "rating" : 4.0,
+    "price": 200,
+    "Img": "yamarita.jpg",
+    "quantity": 1
+   },
+   {
+    "id": 11,
+    "name": "Doughnut",
+    "category" : "ssides",
+    "rating" : 4.0,
+    "price": 200,
+    "Img": "dough.jpg",
+    "quantity": 1
+   },
+   {
+    "id": 12,
+    "name": "Burger",
+    "category" : "ssides",
+    "rating" : 4.0,
+    "price": 200,
+    "Img": "bbub.png",
+    "quantity": 1
+   },
+   {
+    "id": 13,
+    "name": "Fanta",
+    "category" : "sdrink",
+    "rating" : 4.0,
+    "price": 200,
+    "Img": "fanta.png",
+    "quantity": 1
+   },
+   {
+    "id": 14,
+    "name": "Ribenna",
+    "category" : "sdrink",
+    "rating" : 4.0,
+    "price": 200,
+    "Img": "ribenna.png",
+    "quantity": 1
+   },
+   {
+    "id": 15,
+    "name": "Sprite",
+    "category" : "sdrink",
+    "rating" : 4.0,
+    "price": 200,
+    "Img": "sprite.jpg",
+    "quantity": 1
+   },
+   {
+    "id": 16,
+    "name": "Malt",
+    "category" : "sdrink",
+    "rating" : 4.0,
+    "price": 800,
+    "Img": "MALT.png",
+    "quantity": 1
+   },
+   {
+    "id": 17,
+    "name": "C-way",
+    "category" : "sdrink",
+    "rating" : 4.0,
+    "price": 150,
+    "Img": "cway.png",
+    "quantity": 1
+   },
+   {
+    "id": 18,
+    "name": "Bottle Water",
+    "category" : "sdrink",
+    "rating" : 4.0,
+    "price": 300,
+    "Img": "water.jpg",
+    "quantity": 1
+   },
+   {
+    "id": 19,
+    "name": "Schwepps",
+    "category" : "sdrink",
+    "rating" : 4.0,
+    "price": 300,
+    "Img": "Mojito.png",
+    "quantity": 1
+   }
+ ]
+}
